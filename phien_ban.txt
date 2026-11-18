@@ -1,7 +1,7 @@
 # THONG TIN PHIEN BAN - Phan mem "Phong Thuy - Ly So"
 # Moi lan phat hanh ban moi: sua phien_ban, ngay, ghi_chu va tai_ve
 
-phien_ban = v12.11.26
+phien_ban = 12.11.26
 ngay = 18/11/2026
-ghi_chu = Ban dang dung.
-tai_ve =
+ghi_chu = Cập nhâth tính năng phát hành mới và chỉnh sửa lỗi phát sinh.
+tai_ve = https://github.com/xuanthanh83/phongthuythanhnam/releases/download/v12.11.26/Phong.Thuy.-.Ly.So.zip
