@@ -3,5 +3,5 @@
 
 phien_ban = 12.11.26
 ngay = 18/11/2026
-ghi_chu = Cập nhâth tính năng phát hành mới và chỉnh sửa lỗi phát sinh.
+ghi_chu = Cập nhật tính năng phát hành mới và chỉnh sửa lỗi phát sinh.
 tai_ve = https://github.com/xuanthanh83/phongthuythanhnam/releases/download/v12.11.26/Phong.Thuy.-.Ly.So.zip
